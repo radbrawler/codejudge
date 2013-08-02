@@ -1,4 +1,4 @@
-Codejudge
+Myjudge
 =========
 Coding competitions are now easy to organise anytime, anywhere.
 
